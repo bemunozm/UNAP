@@ -1,4 +1,4 @@
-# UNAP
+# COMO EJECUTAR EL HOLA MUNDO
 1.- Descargar el interprete de python desde su pagina oficial [python.org](https://www.python.org/downloads/)
 
 2.- Descargar el codigo de GitHub: https://github.com/bemunozm/UNAP/archive/refs/heads/main.zip
